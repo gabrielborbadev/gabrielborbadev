@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel 👋
 
-<!--
-**gabrielborbadev/gabrielborbadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação na UniRitter, com foco em desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+Atualmente estou estudando Java, lógica de programação, Git e GitHub. Meu objetivo é evoluir para Spring Boot, APIs REST e bancos de dados, construindo projetos práticos para fortalecer meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação
+- 💻 Focado em desenvolvimento Back-end
+- ☕ Estudando Java
+- 🌱 Aprendendo Git, GitHub, SQL e desenvolvimento de APIs
+- 🎯 Buscando uma oportunidade de estágio em tecnologia
+- 📍 Porto Alegre, RS
+
+## 🛠️ Tecnologias em aprendizado
+
+- Java
+- Git
+- GitHub
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Próximos objetivos
+
+- Aprofundar meus conhecimentos em Java
+- Aprender Programação Orientada a Objetos
+- Estudar Spring Boot
+- Desenvolver APIs REST
+- Trabalhar com bancos de dados
+- Construir projetos cada vez mais completos
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-borba-de-oliveira/
